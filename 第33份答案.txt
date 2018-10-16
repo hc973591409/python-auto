@@ -1,0 +1,50 @@
+A: Olympia
+A: Little Rock
+B: Pierre
+A: Raleigh
+A: Montgomery
+B: Bismarck
+C: Topeka
+B: Columbia
+D: Annapolis
+C: Concord
+A: Cheyenne
+B: Madison
+A: Jefferson City
+D: Baton Rouge
+A: Lansing
+B: Atlanta
+B: Albany
+C: Boston
+D: Providence
+C: Nashville
+B: Santa Fe
+D: Trenton
+D: Lincoln
+B: Oklahoma City
+D: Juneau
+B: Charleston
+C: Honolulu
+B: Jackson
+B: Frankfort
+C: Des Moines
+C: Salem
+B: Boise
+B: Indianapolis
+C: Tallahassee
+B: Denver
+D: Dover
+B: Salt Lake City
+A: Hartford
+A: Harrisburg
+D: Phoenix
+D: Columbus
+A: Carson City
+B: Saint Paul
+A: Richmond
+A: Springfield
+C: Sacramento
+B: Austin
+C: Montpelier
+C: Helena
+D: Augusta
